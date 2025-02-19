@@ -1,4 +1,4 @@
-📊🐼 Pandas Data Hub
+# 📊🐼 **PANDAS DATA HUB**
 
 ## 📝 Overview  
 **Pandas Data Hub** is a repository that includes all fundamental concepts of **Pandas**, along with practical examples and personal learning code. This repository serves as a reference for beginners and intermediate users to explore data manipulation, analysis, and visualization using Pandas.  
@@ -62,3 +62,4 @@ Contributions are welcome! Feel free to submit pull requests, report issues, or 
 
 ## 📜 License  
 This project is licensed under the MIT License.  
+```
